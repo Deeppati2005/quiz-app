@@ -74,9 +74,3 @@ This project is a quiz application built using a microservices architecture. The
 ## Contributing  
 Contributions are welcome! Please open an issue or submit a pull request.  
 
-## License  
-This project is licensed under the MIT License - see the `LICENSE` file for details.  
-
-## Contact  
-For questions or feedback, please reach out via GitHub issues.
-
