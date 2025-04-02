@@ -1,9 +1,3 @@
-It appears that I wasn't able to find specific components or detailed information directly from the codebase through the searches. However, given the files you provided, I can still help generate a detailed README file based on the provided information.
-
-Here's a comprehensive README file for your project:
-
----
-
 # Question Service Application
 
 ## Overview
